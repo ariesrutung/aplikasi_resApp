@@ -10,7 +10,7 @@ Aplikasi Resep Masakan Nusantara
 
 ## Kegunaan Masing-Masing Module
 
-- Commerce: Digunakan untuk menambahkan (menjual) produk yang berhubungan dengan bahan dan resep masakan
+- ##Commerce##: Digunakan untuk menambahkan (menjual) produk yang berhubungan dengan bahan dan resep masakan
 - Catalog Pro: Digunakan untuk menambahkan artikel mengenai resep masakan
 - NewsWall: Digunakan untuk menambahkan informasi seputar dunia masak-memasak
 - Padlock: Untuk mengunci aplikasi agar hanya user yang terdaftar saja yang dapat menggunakan (mengakses konten) aplikasi
